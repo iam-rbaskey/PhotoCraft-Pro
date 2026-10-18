@@ -211,12 +211,4 @@ The architectural rigor established by the original authors &mdash; clean-room d
 
 ---
 
-## 📄 License
-
-**Notice: PhotoCraft Pro does NOT use the MIT license.**
-
-PhotoCraft Pro is a proprietary / custom edition. All newly implemented features, Obsidian Dark UI styles, custom vector iconography, macOS-specific optimizations, and documentation are **Copyright (c) 2026. All rights reserved.**
-
-Portions of this software derived from the base PhotoCraft open-source project remain under the copyright of the original ArtCraft Team and PhotoCraft contributors in accordance with their respective notices.
-
 <sub>Adobe and Photoshop are trademarks or registered trademarks of Adobe Inc. in the United States and/or other countries. PhotoCraft Pro is an independent project and is not affiliated with, sponsored by, or endorsed by Adobe Inc.</sub>
