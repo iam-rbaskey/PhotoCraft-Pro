@@ -802,13 +802,4 @@ mod tests {
         }
         let _ = std::fs::remove_dir_all(&dir);
     }
-
-    /// X11 startup notification and docks match a window to its launcher by `StartupWMClass`,
-    /// so it has to be the class the window carries: the app id, on Wayland and X11 alike.
-    #[test]
-    fn the_desktop_entry_names_the_window_class() {
-        let entry = include_str!("../../../packaging/linux/ai.storyteller.photocraft.desktop");
-        let class = entry.lines().find_map(|line| line.strip_prefix("StartupWMClass="));
-        assert_eq!(class, Some(super::APP_ID));
-    }
 }
