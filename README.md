@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/artcraft-logo-white.svg">
+    .
     <img alt="PhotoCraft Pro" src="docs/brand/artcraft-logo.svg" width="180">
   </picture>
 </p>
