@@ -190,10 +190,10 @@ PhotoCraft Pro is built exclusively for macOS (Apple Silicon M-Series & Intel 64
 
 ## 👥 Credits & Acknowledgments
 
-PhotoCraft Pro is created, maintained, and enhanced by **the current maintainer**, building on top of foundational open-source technology developed by the broader Rust creative tools community.
+PhotoCraft Pro is created, maintained, and enhanced by **Riyanshu Baskey**, building on top of foundational open-source technology developed by the broader Rust creative tools community.
 
 ### New Features, Enhancements & Pro Engineering
-- **Current Maintainer**: Designed and implemented the **PhotoCraft Pro** edition, including the Obsidian Dark UI theme, Photoshop 2026 icon redesign, macOS performance optimizations, bug fixes, AppKit native enhancements, and documentation.
+- **[Riyanshu Baskey](https://github.com/iam-rbaskey)**: Designed and implemented the **PhotoCraft Pro** edition, including the Obsidian Dark UI theme, Photoshop 2026 icon redesign, macOS performance optimizations, bug fixes, AppKit native enhancements, and documentation.
 
 ### Original Creators of PhotoCraft & The Crafting Apps Family
 Immense gratitude and credit are owed to the original creators and maintainers at **[Storytold](https://github.com/storytold) / [ArtCraft](https://getartcraft.com/)** and their open-source contributors for conceiving **PhotoCraft** and pioneering the Crafting Apps family:
